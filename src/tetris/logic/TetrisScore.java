@@ -66,7 +66,7 @@ public class TetrisScore {
     /**
      * Значение скорости падения основных фигур.
      */
-    private static int speed = 300;
+    private int speed = 300;
 
     public int getSpeed() {
         return speed;
